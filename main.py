@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import requests
 import os
 
+from mundial_router import router as mundial_router   # <-- AÑADIDO
+
 app = FastAPI()
 
 # --- CORS seguro: solo tu dominio público ---
@@ -13,6 +15,9 @@ app.add_middleware(
     allow_methods=["GET"],
     allow_headers=["*"],
 )
+
+# --- Registrar router del Mundial ---
+app.include_router(mundial_router)   # <-- AÑADIDO
 
 # --- Ruta raíz ---
 @app.get("/")
