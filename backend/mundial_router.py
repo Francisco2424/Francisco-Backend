@@ -14,22 +14,42 @@ def leer_json(nombre):
     with open(ruta, "r", encoding="utf-8") as f:
         return json.load(f)
 
+# ------------------------------------------------------------
+# 1. SELECCIONES
+# ------------------------------------------------------------
 @router.get("/selecciones")
 def obtener_selecciones():
-    return leer_json("selecciones.json")
+    data = leer_json("selecciones.json")
+    return {"selecciones": data}
 
+# ------------------------------------------------------------
+# 2. JUGADORES
+# ------------------------------------------------------------
 @router.get("/jugadores")
 def obtener_jugadores():
-    return leer_json("jugadores.json")
+    data = leer_json("jugadores.json")
+    return {"jugadores": data}
 
+# ------------------------------------------------------------
+# 3. GRUPOS
+# ------------------------------------------------------------
 @router.get("/grupos")
 def obtener_grupos():
-    return leer_json("grupos.json")
+    data = leer_json("grupos.json")
+    return {"grupos": data}
 
+# ------------------------------------------------------------
+# 4. PARTIDOS
+# ------------------------------------------------------------
 @router.get("/partidos")
 def obtener_partidos():
-    return leer_json("partidos.json")
+    data = leer_json("partidos.json")
+    return {"partidos": data}
 
+# ------------------------------------------------------------
+# 5. ESTADISTICAS
+# ------------------------------------------------------------
 @router.get("/estadisticas")
 def obtener_estadisticas():
-    return leer_json("estadisticas.json")
+    data = leer_json("estadisticas.json")
+    return {"estadisticas": data}
