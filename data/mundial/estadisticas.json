@@ -1,0 +1,338 @@
+{
+  "1A": {
+    "partidos": 1
+  },
+  "1B": {
+    "partidos": 1
+  },
+  "1C": {
+    "partidos": 1
+  },
+  "1D": {
+    "partidos": 1
+  },
+  "1E": {
+    "partidos": 1
+  },
+  "1F": {
+    "partidos": 1
+  },
+  "1G": {
+    "partidos": 1
+  },
+  "1H": {
+    "partidos": 1
+  },
+  "1I": {
+    "partidos": 1
+  },
+  "1J": {
+    "partidos": 1
+  },
+  "1K": {
+    "partidos": 1
+  },
+  "1L": {
+    "partidos": 1
+  },
+  "2A": {
+    "partidos": 1
+  },
+  "2B": {
+    "partidos": 1
+  },
+  "2C": {
+    "partidos": 1
+  },
+  "2D": {
+    "partidos": 1
+  },
+  "2E": {
+    "partidos": 1
+  },
+  "2F": {
+    "partidos": 1
+  },
+  "2G": {
+    "partidos": 1
+  },
+  "2H": {
+    "partidos": 1
+  },
+  "2I": {
+    "partidos": 1
+  },
+  "2J": {
+    "partidos": 1
+  },
+  "2K": {
+    "partidos": 1
+  },
+  "2L": {
+    "partidos": 1
+  },
+  "3A/B/C/D/F": {
+    "partidos": 1
+  },
+  "3A/E/H/I/J": {
+    "partidos": 1
+  },
+  "3B/E/F/I/J": {
+    "partidos": 1
+  },
+  "3C/D/F/G/H": {
+    "partidos": 1
+  },
+  "3C/E/F/H/I": {
+    "partidos": 1
+  },
+  "3D/E/I/J/L": {
+    "partidos": 1
+  },
+  "3E/F/G/I/J": {
+    "partidos": 1
+  },
+  "3E/H/I/J/K": {
+    "partidos": 1
+  },
+  "Algeria": {
+    "partidos": 3
+  },
+  "Argentina": {
+    "partidos": 3
+  },
+  "Australia": {
+    "partidos": 3
+  },
+  "Austria": {
+    "partidos": 3
+  },
+  "Belgium": {
+    "partidos": 3
+  },
+  "Bosnia & Herzegovina": {
+    "partidos": 3
+  },
+  "Brazil": {
+    "partidos": 3
+  },
+  "Canada": {
+    "partidos": 3
+  },
+  "Cape Verde": {
+    "partidos": 3
+  },
+  "Colombia": {
+    "partidos": 3
+  },
+  "Croatia": {
+    "partidos": 3
+  },
+  "Curaçao": {
+    "partidos": 3
+  },
+  "Czech Republic": {
+    "partidos": 3
+  },
+  "DR Congo": {
+    "partidos": 3
+  },
+  "Ecuador": {
+    "partidos": 3
+  },
+  "Egypt": {
+    "partidos": 3
+  },
+  "England": {
+    "partidos": 3
+  },
+  "France": {
+    "partidos": 3
+  },
+  "Germany": {
+    "partidos": 3
+  },
+  "Ghana": {
+    "partidos": 3
+  },
+  "Haiti": {
+    "partidos": 3
+  },
+  "Iran": {
+    "partidos": 3
+  },
+  "Iraq": {
+    "partidos": 3
+  },
+  "Ivory Coast": {
+    "partidos": 3
+  },
+  "Japan": {
+    "partidos": 3
+  },
+  "Jordan": {
+    "partidos": 3
+  },
+  "L101": {
+    "partidos": 1
+  },
+  "L102": {
+    "partidos": 1
+  },
+  "Mexico": {
+    "partidos": 3
+  },
+  "Morocco": {
+    "partidos": 3
+  },
+  "Netherlands": {
+    "partidos": 3
+  },
+  "New Zealand": {
+    "partidos": 3
+  },
+  "Norway": {
+    "partidos": 3
+  },
+  "Panama": {
+    "partidos": 3
+  },
+  "Paraguay": {
+    "partidos": 3
+  },
+  "Portugal": {
+    "partidos": 3
+  },
+  "Qatar": {
+    "partidos": 3
+  },
+  "Saudi Arabia": {
+    "partidos": 3
+  },
+  "Scotland": {
+    "partidos": 3
+  },
+  "Senegal": {
+    "partidos": 3
+  },
+  "South Africa": {
+    "partidos": 3
+  },
+  "South Korea": {
+    "partidos": 3
+  },
+  "Spain": {
+    "partidos": 3
+  },
+  "Sweden": {
+    "partidos": 3
+  },
+  "Switzerland": {
+    "partidos": 3
+  },
+  "Tunisia": {
+    "partidos": 3
+  },
+  "Turkey": {
+    "partidos": 3
+  },
+  "USA": {
+    "partidos": 3
+  },
+  "Uruguay": {
+    "partidos": 3
+  },
+  "Uzbekistan": {
+    "partidos": 3
+  },
+  "W100": {
+    "partidos": 1
+  },
+  "W101": {
+    "partidos": 1
+  },
+  "W102": {
+    "partidos": 1
+  },
+  "W73": {
+    "partidos": 1
+  },
+  "W74": {
+    "partidos": 1
+  },
+  "W75": {
+    "partidos": 1
+  },
+  "W76": {
+    "partidos": 1
+  },
+  "W77": {
+    "partidos": 1
+  },
+  "W78": {
+    "partidos": 1
+  },
+  "W79": {
+    "partidos": 1
+  },
+  "W80": {
+    "partidos": 1
+  },
+  "W81": {
+    "partidos": 1
+  },
+  "W82": {
+    "partidos": 1
+  },
+  "W83": {
+    "partidos": 1
+  },
+  "W84": {
+    "partidos": 1
+  },
+  "W85": {
+    "partidos": 1
+  },
+  "W86": {
+    "partidos": 1
+  },
+  "W87": {
+    "partidos": 1
+  },
+  "W88": {
+    "partidos": 1
+  },
+  "W89": {
+    "partidos": 1
+  },
+  "W90": {
+    "partidos": 1
+  },
+  "W91": {
+    "partidos": 1
+  },
+  "W92": {
+    "partidos": 1
+  },
+  "W93": {
+    "partidos": 1
+  },
+  "W94": {
+    "partidos": 1
+  },
+  "W95": {
+    "partidos": 1
+  },
+  "W96": {
+    "partidos": 1
+  },
+  "W97": {
+    "partidos": 1
+  },
+  "W98": {
+    "partidos": 1
+  },
+  "W99": {
+    "partidos": 1
+  }
+}

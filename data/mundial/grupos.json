@@ -1,0 +1,110 @@
+[
+  {
+    "grupo": "Group A",
+    "equipos": [
+      "Czech Republic",
+      "Mexico",
+      "South Africa",
+      "South Korea"
+    ]
+  },
+  {
+    "grupo": "Group B",
+    "equipos": [
+      "Bosnia & Herzegovina",
+      "Canada",
+      "Qatar",
+      "Switzerland"
+    ]
+  },
+  {
+    "grupo": "Group C",
+    "equipos": [
+      "Brazil",
+      "Haiti",
+      "Morocco",
+      "Scotland"
+    ]
+  },
+  {
+    "grupo": "Group D",
+    "equipos": [
+      "Australia",
+      "Paraguay",
+      "Turkey",
+      "USA"
+    ]
+  },
+  {
+    "grupo": "Group E",
+    "equipos": [
+      "Curaçao",
+      "Ecuador",
+      "Germany",
+      "Ivory Coast"
+    ]
+  },
+  {
+    "grupo": "Group F",
+    "equipos": [
+      "Japan",
+      "Netherlands",
+      "Sweden",
+      "Tunisia"
+    ]
+  },
+  {
+    "grupo": "Group G",
+    "equipos": [
+      "Belgium",
+      "Egypt",
+      "Iran",
+      "New Zealand"
+    ]
+  },
+  {
+    "grupo": "Group H",
+    "equipos": [
+      "Cape Verde",
+      "Saudi Arabia",
+      "Spain",
+      "Uruguay"
+    ]
+  },
+  {
+    "grupo": "Group I",
+    "equipos": [
+      "France",
+      "Iraq",
+      "Norway",
+      "Senegal"
+    ]
+  },
+  {
+    "grupo": "Group J",
+    "equipos": [
+      "Algeria",
+      "Argentina",
+      "Austria",
+      "Jordan"
+    ]
+  },
+  {
+    "grupo": "Group K",
+    "equipos": [
+      "Colombia",
+      "DR Congo",
+      "Portugal",
+      "Uzbekistan"
+    ]
+  },
+  {
+    "grupo": "Group L",
+    "equipos": [
+      "Croatia",
+      "England",
+      "Ghana",
+      "Panama"
+    ]
+  }
+]
