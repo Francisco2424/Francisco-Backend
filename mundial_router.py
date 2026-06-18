@@ -1,26 +1,55 @@
 from fastapi import APIRouter
+import os
 import json
-from pathlib import Path
 
-router = APIRouter()
+router = APIRouter(prefix="/mundial", tags=["Mundial"])
 
-BASE_PATH = Path(__file__).resolve().parent
+# Ruta base absoluta (siempre apunta al backend)
+BASE = os.path.join(os.path.dirname(__file__), "datos", "mundial")
 
-def cargar_json(nombre):
-    with open(BASE_PATH / nombre, "r", encoding="utf-8") as f:
+def leer_json(nombre):
+    ruta = os.path.join(BASE, nombre)
+    if not os.path.exists(ruta):
+        return {"error": f"Archivo {nombre} no encontrado en {ruta}"}
+    with open(ruta, "r", encoding="utf-8") as f:
         return json.load(f)
 
-@router.get("/mundial/grupos")
+# ------------------------------------------------------------
+# 1. SELECCIONES
+# ------------------------------------------------------------
+@router.get("/selecciones")
+def obtener_selecciones():
+    data = leer_json("selecciones.json")
+    return {"selecciones": data}
+
+# ------------------------------------------------------------
+# 2. JUGADORES
+# ------------------------------------------------------------
+@router.get("/jugadores")
+def obtener_jugadores():
+    data = leer_json("jugadores.json")
+    return {"jugadores": data}
+
+# ------------------------------------------------------------
+# 3. GRUPOS
+# ------------------------------------------------------------
+@router.get("/grupos")
 def obtener_grupos():
-    return cargar_json("grupos.json")
+    data = leer_json("grupos.json")
+    return {"grupos": data}
 
-@router.get("/mundial/jugadores/{codigo_pais}")
-def obtener_jugadores(codigo_pais: str):
-    data = cargar_json("jugadores.json")
-    codigo_pais = codigo_pais.upper()
+# ------------------------------------------------------------
+# 4. PARTIDOS
+# ------------------------------------------------------------
+@router.get("/partidos")
+def obtener_partidos():
+    data = leer_json("partidos.json")
+    return {"partidos": data}
 
-    for pais in data["jugadores"]:
-        if pais["codigo_pais"] == codigo_pais:
-            return pais
-
-    return {"error": "País no encontrado"}
+# ------------------------------------------------------------
+# 5. ESTADISTICAS
+# ------------------------------------------------------------
+@router.get("/estadisticas")
+def obtener_estadisticas():
+    data = leer_json("estadisticas.json")
+    return {"estadisticas": data}
