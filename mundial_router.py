@@ -4,7 +4,7 @@ import json
 
 router = APIRouter(prefix="/mundial", tags=["Mundial"])
 
-# Ruta base absoluta (siempre apunta al backend)
+# Ruta base absoluta (backend/data/mundial)
 BASE = os.path.join(os.path.dirname(__file__), "data", "mundial")
 
 def leer_json(nombre):
@@ -19,37 +19,32 @@ def leer_json(nombre):
 # ------------------------------------------------------------
 @router.get("/selecciones")
 def obtener_selecciones():
-    data = leer_json("selecciones.json")
-    return {"selecciones": data}
+    return leer_json("selecciones.json")
 
 # ------------------------------------------------------------
-# 2. JUGADORES
-# ------------------------------------------------------------
-@router.get("/jugadores")
-def obtener_jugadores():
-    data = leer_json("jugadores.json")
-    return {"jugadores": data}
-
-# ------------------------------------------------------------
-# 3. GRUPOS
+# 2. GRUPOS (con estadísticas completas)
 # ------------------------------------------------------------
 @router.get("/grupos")
 def obtener_grupos():
-    data = leer_json("grupos.json")
-    return {"grupos": data}
+    return leer_json("grupos.json")
 
 # ------------------------------------------------------------
-# 4. PARTIDOS
+# 3. PARTIDOS
 # ------------------------------------------------------------
 @router.get("/partidos")
 def obtener_partidos():
-    data = leer_json("partidos.json")
-    return {"partidos": data}
+    return leer_json("partidos.json")
 
 # ------------------------------------------------------------
-# 5. ESTADISTICAS
+# 4. ESTADÍSTICAS POR SELECCIÓN
 # ------------------------------------------------------------
 @router.get("/estadisticas")
 def obtener_estadisticas():
-    data = leer_json("estadisticas.json")
-    return {"estadisticas": data}
+    return leer_json("estadisticas.json")
+
+# ------------------------------------------------------------
+# 5. GOLEADORES DEL TORNEO
+# ------------------------------------------------------------
+@router.get("/goleadores")
+def obtener_goleadores():
+    return leer_json("goleadores.json")
