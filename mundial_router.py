@@ -5,7 +5,7 @@ import json
 router = APIRouter(prefix="/mundial", tags=["Mundial"])
 
 # Ruta base absoluta (siempre apunta al backend)
-BASE = os.path.join(os.path.dirname(__file__), "datos", "mundial")
+BASE = os.path.join(os.path.dirname(__file__), "data", "mundial")
 
 def leer_json(nombre):
     ruta = os.path.join(BASE, nombre)
