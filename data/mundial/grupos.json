@@ -1,110 +1,590 @@
 [
   {
     "grupo": "Group A",
-    "equipos": [
-      "Czech Republic",
-      "Mexico",
-      "South Africa",
-      "South Korea"
+    "paises": [
+      {
+        "nombre": "Mexico",
+        "pj": 2,
+        "pg": 2,
+        "pe": 0,
+        "pp": 0,
+        "gf": 3,
+        "gc": 0,
+        "dg": 3,
+        "puntos": 6
+      },
+      {
+        "nombre": "South Korea",
+        "pj": 2,
+        "pg": 1,
+        "pe": 0,
+        "pp": 1,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
+        "puntos": 3
+      },
+      {
+        "nombre": "Czech Republic",
+        "pj": 2,
+        "pg": 0,
+        "pe": 1,
+        "pp": 1,
+        "gf": 2,
+        "gc": 3,
+        "dg": -1,
+        "puntos": 1
+      },
+      {
+        "nombre": "South Africa",
+        "pj": 2,
+        "pg": 0,
+        "pe": 1,
+        "pp": 1,
+        "gf": 1,
+        "gc": 3,
+        "dg": -2,
+        "puntos": 1
+      }
     ]
   },
   {
     "grupo": "Group B",
-    "equipos": [
-      "Bosnia & Herzegovina",
-      "Canada",
-      "Qatar",
-      "Switzerland"
+    "paises": [
+      {
+        "nombre": "Canada",
+        "pj": 2,
+        "pg": 1,
+        "pe": 1,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1,
+        "dg": 6,
+        "puntos": 4
+      },
+      {
+        "nombre": "Switzerland",
+        "pj": 2,
+        "pg": 1,
+        "pe": 1,
+        "pp": 0,
+        "gf": 5,
+        "gc": 2,
+        "dg": 3,
+        "puntos": 4
+      },
+      {
+        "nombre": "Bosnia & Herzegovina",
+        "pj": 2,
+        "pg": 0,
+        "pe": 1,
+        "pp": 1,
+        "gf": 2,
+        "gc": 5,
+        "dg": -3,
+        "puntos": 1
+      },
+      {
+        "nombre": "Qatar",
+        "pj": 2,
+        "pg": 0,
+        "pe": 1,
+        "pp": 1,
+        "gf": 1,
+        "gc": 7,
+        "dg": -6,
+        "puntos": 1
+      }
     ]
   },
   {
     "grupo": "Group C",
-    "equipos": [
-      "Brazil",
-      "Haiti",
-      "Morocco",
-      "Scotland"
+    "paises": [
+      {
+        "nombre": "Scotland",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 1,
+        "gc": 0,
+        "dg": 1,
+        "puntos": 3
+      },
+      {
+        "nombre": "Brazil",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Morocco",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Haiti",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 0,
+        "gc": 1,
+        "dg": -1,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group D",
-    "equipos": [
-      "Australia",
-      "Paraguay",
-      "Turkey",
-      "USA"
+    "paises": [
+      {
+        "nombre": "USA",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 4,
+        "gc": 1,
+        "dg": 3,
+        "puntos": 3
+      },
+      {
+        "nombre": "Australia",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 2,
+        "gc": 0,
+        "dg": 2,
+        "puntos": 3
+      },
+      {
+        "nombre": "Turkey",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 0,
+        "gc": 2,
+        "dg": -2,
+        "puntos": 0
+      },
+      {
+        "nombre": "Paraguay",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 4,
+        "dg": -3,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group E",
-    "equipos": [
-      "Curaçao",
-      "Ecuador",
-      "Germany",
-      "Ivory Coast"
+    "paises": [
+      {
+        "nombre": "Germany",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 7,
+        "gc": 1,
+        "dg": 6,
+        "puntos": 3
+      },
+      {
+        "nombre": "Ivory Coast",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 1,
+        "gc": 0,
+        "dg": 1,
+        "puntos": 3
+      },
+      {
+        "nombre": "Ecuador",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 0,
+        "gc": 1,
+        "dg": -1,
+        "puntos": 0
+      },
+      {
+        "nombre": "Curaçao",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 7,
+        "dg": -6,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group F",
-    "equipos": [
-      "Japan",
-      "Netherlands",
-      "Sweden",
-      "Tunisia"
+    "paises": [
+      {
+        "nombre": "Sweden",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 5,
+        "gc": 1,
+        "dg": 4,
+        "puntos": 3
+      },
+      {
+        "nombre": "Japan",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Netherlands",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Tunisia",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 5,
+        "dg": -4,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group G",
-    "equipos": [
-      "Belgium",
-      "Egypt",
-      "Iran",
-      "New Zealand"
+    "paises": [
+      {
+        "nombre": "Iran",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "New Zealand",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Belgium",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Egypt",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      }
     ]
   },
   {
     "grupo": "Group H",
-    "equipos": [
-      "Cape Verde",
-      "Saudi Arabia",
-      "Spain",
-      "Uruguay"
+    "paises": [
+      {
+        "nombre": "Saudi Arabia",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Uruguay",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Cape Verde",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Spain",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 0,
+        "gc": 0,
+        "dg": 0,
+        "puntos": 1
+      }
     ]
   },
   {
     "grupo": "Group I",
-    "equipos": [
-      "France",
-      "Iraq",
-      "Norway",
-      "Senegal"
+    "paises": [
+      {
+        "nombre": "Norway",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 4,
+        "gc": 1,
+        "dg": 3,
+        "puntos": 3
+      },
+      {
+        "nombre": "France",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 3,
+        "gc": 1,
+        "dg": 2,
+        "puntos": 3
+      },
+      {
+        "nombre": "Senegal",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 3,
+        "dg": -2,
+        "puntos": 0
+      },
+      {
+        "nombre": "Iraq",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 4,
+        "dg": -3,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group J",
-    "equipos": [
-      "Algeria",
-      "Argentina",
-      "Austria",
-      "Jordan"
+    "paises": [
+      {
+        "nombre": "Argentina",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 3,
+        "gc": 0,
+        "dg": 3,
+        "puntos": 3
+      },
+      {
+        "nombre": "Austria",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 3,
+        "gc": 1,
+        "dg": 2,
+        "puntos": 3
+      },
+      {
+        "nombre": "Jordan",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 3,
+        "dg": -2,
+        "puntos": 0
+      },
+      {
+        "nombre": "Algeria",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 0,
+        "gc": 3,
+        "dg": -3,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group K",
-    "equipos": [
-      "Colombia",
-      "DR Congo",
-      "Portugal",
-      "Uzbekistan"
+    "paises": [
+      {
+        "nombre": "Colombia",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 3,
+        "gc": 1,
+        "dg": 2,
+        "puntos": 3
+      },
+      {
+        "nombre": "DR Congo",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Portugal",
+        "pj": 1,
+        "pg": 0,
+        "pe": 1,
+        "pp": 0,
+        "gf": 1,
+        "gc": 1,
+        "dg": 0,
+        "puntos": 1
+      },
+      {
+        "nombre": "Uzbekistan",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 3,
+        "dg": -2,
+        "puntos": 0
+      }
     ]
   },
   {
     "grupo": "Group L",
-    "equipos": [
-      "Croatia",
-      "England",
-      "Ghana",
-      "Panama"
+    "paises": [
+      {
+        "nombre": "England",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 4,
+        "gc": 2,
+        "dg": 2,
+        "puntos": 3
+      },
+      {
+        "nombre": "Ghana",
+        "pj": 1,
+        "pg": 1,
+        "pe": 0,
+        "pp": 0,
+        "gf": 1,
+        "gc": 0,
+        "dg": 1,
+        "puntos": 3
+      },
+      {
+        "nombre": "Panama",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 0,
+        "gc": 1,
+        "dg": -1,
+        "puntos": 0
+      },
+      {
+        "nombre": "Croatia",
+        "pj": 1,
+        "pg": 0,
+        "pe": 0,
+        "pp": 1,
+        "gf": 2,
+        "gc": 4,
+        "dg": -2,
+        "puntos": 0
+      }
     ]
   }
 ]

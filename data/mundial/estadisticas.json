@@ -1,338 +1,1122 @@
 {
   "1A": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1B": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1C": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1D": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1E": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1F": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1G": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1H": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1I": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1J": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1K": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "1L": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2A": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2B": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2C": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2D": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2E": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2F": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2G": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2H": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2I": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2J": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2K": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "2L": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3A/B/C/D/F": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3A/E/H/I/J": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3B/E/F/I/J": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3C/D/F/G/H": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3C/E/F/H/I": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3D/E/I/J/L": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3E/F/G/I/J": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "3E/H/I/J/K": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "Algeria": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 0,
+    "gc": 3,
+    "dg": -3,
+    "puntos": 0
   },
   "Argentina": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 3,
+    "gc": 0,
+    "dg": 3,
+    "puntos": 3
   },
   "Australia": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 2,
+    "gc": 0,
+    "dg": 2,
+    "puntos": 3
   },
   "Austria": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 3,
+    "gc": 1,
+    "dg": 2,
+    "puntos": 3
   },
   "Belgium": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Bosnia & Herzegovina": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 2,
+    "gc": 5,
+    "dg": -3,
+    "puntos": 1
   },
   "Brazil": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Canada": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 1,
+    "pe": 1,
+    "pp": 0,
+    "gf": 7,
+    "gc": 1,
+    "dg": 6,
+    "puntos": 4
   },
   "Cape Verde": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 1
   },
   "Colombia": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 3,
+    "gc": 1,
+    "dg": 2,
+    "puntos": 3
   },
   "Croatia": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 2,
+    "gc": 4,
+    "dg": -2,
+    "puntos": 0
   },
   "Curaçao": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 7,
+    "dg": -6,
+    "puntos": 0
   },
   "Czech Republic": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 2,
+    "gc": 3,
+    "dg": -1,
+    "puntos": 1
   },
   "DR Congo": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Ecuador": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 0,
+    "gc": 1,
+    "dg": -1,
+    "puntos": 0
   },
   "Egypt": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "England": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 4,
+    "gc": 2,
+    "dg": 2,
+    "puntos": 3
   },
   "France": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 3,
+    "gc": 1,
+    "dg": 2,
+    "puntos": 3
   },
   "Germany": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 7,
+    "gc": 1,
+    "dg": 6,
+    "puntos": 3
   },
   "Ghana": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 1,
+    "gc": 0,
+    "dg": 1,
+    "puntos": 3
   },
   "Haiti": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 0,
+    "gc": 1,
+    "dg": -1,
+    "puntos": 0
   },
   "Iran": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
+    "puntos": 1
   },
   "Iraq": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 4,
+    "dg": -3,
+    "puntos": 0
   },
   "Ivory Coast": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 1,
+    "gc": 0,
+    "dg": 1,
+    "puntos": 3
   },
   "Japan": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
+    "puntos": 1
   },
   "Jordan": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 3,
+    "dg": -2,
+    "puntos": 0
   },
   "L101": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "L102": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "Mexico": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 2,
+    "pe": 0,
+    "pp": 0,
+    "gf": 3,
+    "gc": 0,
+    "dg": 3,
+    "puntos": 6
   },
   "Morocco": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Netherlands": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
+    "puntos": 1
   },
   "New Zealand": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
+    "puntos": 1
   },
   "Norway": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 4,
+    "gc": 1,
+    "dg": 3,
+    "puntos": 3
   },
   "Panama": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 0,
+    "gc": 1,
+    "dg": -1,
+    "puntos": 0
   },
   "Paraguay": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 4,
+    "dg": -3,
+    "puntos": 0
   },
   "Portugal": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Qatar": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 1,
+    "gc": 7,
+    "dg": -6,
+    "puntos": 1
   },
   "Saudi Arabia": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Scotland": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 1,
+    "gc": 0,
+    "dg": 1,
+    "puntos": 3
   },
   "Senegal": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 3,
+    "dg": -2,
+    "puntos": 0
   },
   "South Africa": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 1,
+    "gc": 3,
+    "dg": -2,
+    "puntos": 1
   },
   "South Korea": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 1,
+    "pe": 0,
+    "pp": 1,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
+    "puntos": 3
   },
   "Spain": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 1
   },
   "Sweden": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 5,
+    "gc": 1,
+    "dg": 4,
+    "puntos": 3
   },
   "Switzerland": {
-    "partidos": 3
+    "pj": 2,
+    "pg": 1,
+    "pe": 1,
+    "pp": 0,
+    "gf": 5,
+    "gc": 2,
+    "dg": 3,
+    "puntos": 4
   },
   "Tunisia": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 5,
+    "dg": -4,
+    "puntos": 0
   },
   "Turkey": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 0,
+    "gc": 2,
+    "dg": -2,
+    "puntos": 0
   },
   "USA": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 4,
+    "gc": 1,
+    "dg": 3,
+    "puntos": 3
   },
   "Uruguay": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 1,
+    "pp": 0,
+    "gf": 1,
+    "gc": 1,
+    "dg": 0,
+    "puntos": 1
   },
   "Uzbekistan": {
-    "partidos": 3
+    "pj": 1,
+    "pg": 0,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 3,
+    "dg": -2,
+    "puntos": 0
   },
   "W100": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W101": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W102": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W73": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W74": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W75": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W76": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W77": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W78": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W79": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W80": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W81": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W82": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W83": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W84": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W85": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W86": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W87": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W88": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W89": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W90": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W91": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W92": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W93": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W94": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W95": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W96": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W97": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W98": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   },
   "W99": {
-    "partidos": 1
+    "pj": 0,
+    "pg": 0,
+    "pe": 0,
+    "pp": 0,
+    "gf": 0,
+    "gc": 0,
+    "dg": 0,
+    "puntos": 0
   }
 }
