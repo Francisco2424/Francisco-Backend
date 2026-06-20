@@ -29,6 +29,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-          git add backend/data/mundial/*.json
+          git add data/mundial/*.json
           git commit -m "Actualización automática de datos del Mundial" || echo "No hay cambios"
           git push
