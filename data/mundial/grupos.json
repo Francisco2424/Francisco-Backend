@@ -172,24 +172,24 @@
         "puntos": 3
       },
       {
-        "nombre": "Turkey",
-        "pj": 1,
-        "pg": 0,
+        "nombre": "Paraguay",
+        "pj": 2,
+        "pg": 1,
         "pe": 0,
         "pp": 1,
-        "gf": 0,
-        "gc": 2,
+        "gf": 2,
+        "gc": 4,
         "dg": -2,
-        "puntos": 0
+        "puntos": 3
       },
       {
-        "nombre": "Paraguay",
-        "pj": 1,
+        "nombre": "Turkey",
+        "pj": 2,
         "pg": 0,
         "pe": 0,
-        "pp": 1,
-        "gf": 1,
-        "gc": 4,
+        "pp": 2,
+        "gf": 0,
+        "gc": 3,
         "dg": -3,
         "puntos": 0
       }
