@@ -340,13 +340,13 @@
     "puntos": 3
   },
   "Australia": {
-    "pj": 1,
+    "pj": 2,
     "pg": 1,
     "pe": 0,
-    "pp": 0,
+    "pp": 1,
     "gf": 2,
-    "gc": 0,
-    "dg": 2,
+    "gc": 2,
+    "dg": 0,
     "puntos": 3
   },
   "Austria": {
@@ -380,14 +380,14 @@
     "puntos": 1
   },
   "Brazil": {
-    "pj": 1,
-    "pg": 0,
+    "pj": 2,
+    "pg": 1,
     "pe": 1,
     "pp": 0,
-    "gf": 1,
+    "gf": 4,
     "gc": 1,
-    "dg": 0,
-    "puntos": 1
+    "dg": 3,
+    "puntos": 4
   },
   "Canada": {
     "pj": 2,
@@ -520,13 +520,13 @@
     "puntos": 3
   },
   "Haiti": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
     "pe": 0,
-    "pp": 1,
+    "pp": 2,
     "gf": 0,
-    "gc": 1,
-    "dg": -1,
+    "gc": 4,
+    "dg": -4,
     "puntos": 0
   },
   "Iran": {
@@ -610,14 +610,14 @@
     "puntos": 6
   },
   "Morocco": {
-    "pj": 1,
-    "pg": 0,
+    "pj": 2,
+    "pg": 1,
     "pe": 1,
     "pp": 0,
-    "gf": 1,
+    "gf": 2,
     "gc": 1,
-    "dg": 0,
-    "puntos": 1
+    "dg": 1,
+    "puntos": 4
   },
   "Netherlands": {
     "pj": 1,
@@ -700,13 +700,13 @@
     "puntos": 1
   },
   "Scotland": {
-    "pj": 1,
+    "pj": 2,
     "pg": 1,
     "pe": 0,
-    "pp": 0,
+    "pp": 1,
     "gf": 1,
-    "gc": 0,
-    "dg": 1,
+    "gc": 1,
+    "dg": 0,
     "puntos": 3
   },
   "Senegal": {
@@ -790,14 +790,14 @@
     "puntos": 0
   },
   "USA": {
-    "pj": 1,
-    "pg": 1,
+    "pj": 2,
+    "pg": 2,
     "pe": 0,
     "pp": 0,
-    "gf": 4,
+    "gf": 6,
     "gc": 1,
-    "dg": 3,
-    "puntos": 3
+    "dg": 5,
+    "puntos": 6
   },
   "Uruguay": {
     "pj": 1,
