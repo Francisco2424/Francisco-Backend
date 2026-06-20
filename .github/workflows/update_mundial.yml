@@ -23,7 +23,7 @@ jobs:
 
       - name: Ejecutar script de actualización
         run: |
-          python backend/mundial_updater/update_mundial.py
+         python mundial_updater/update_mundial.py
 
       - name: Commit y push de los JSON actualizados
         run: |
