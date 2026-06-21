@@ -200,47 +200,47 @@
     "paises": [
       {
         "nombre": "Germany",
-        "pj": 1,
-        "pg": 1,
+        "pj": 2,
+        "pg": 2,
         "pe": 0,
         "pp": 0,
-        "gf": 7,
-        "gc": 1,
-        "dg": 6,
-        "puntos": 3
+        "gf": 9,
+        "gc": 2,
+        "dg": 7,
+        "puntos": 6
       },
       {
         "nombre": "Ivory Coast",
-        "pj": 1,
+        "pj": 2,
         "pg": 1,
         "pe": 0,
-        "pp": 0,
-        "gf": 1,
-        "gc": 0,
-        "dg": 1,
+        "pp": 1,
+        "gf": 2,
+        "gc": 2,
+        "dg": 0,
         "puntos": 3
       },
       {
         "nombre": "Ecuador",
-        "pj": 1,
+        "pj": 2,
         "pg": 0,
-        "pe": 0,
+        "pe": 1,
         "pp": 1,
         "gf": 0,
         "gc": 1,
         "dg": -1,
-        "puntos": 0
+        "puntos": 1
       },
       {
         "nombre": "Curaçao",
-        "pj": 1,
+        "pj": 2,
         "pg": 0,
-        "pe": 0,
+        "pe": 1,
         "pp": 1,
         "gf": 1,
         "gc": 7,
         "dg": -6,
-        "puntos": 0
+        "puntos": 1
       }
     ]
   },
