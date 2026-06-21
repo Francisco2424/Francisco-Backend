@@ -346,15 +346,15 @@
     "grupo": "Group H",
     "paises": [
       {
-        "nombre": "Saudi Arabia",
-        "pj": 1,
-        "pg": 0,
+        "nombre": "Spain",
+        "pj": 2,
+        "pg": 1,
         "pe": 1,
         "pp": 0,
-        "gf": 1,
-        "gc": 1,
-        "dg": 0,
-        "puntos": 1
+        "gf": 4,
+        "gc": 0,
+        "dg": 4,
+        "puntos": 4
       },
       {
         "nombre": "Uruguay",
@@ -379,14 +379,14 @@
         "puntos": 1
       },
       {
-        "nombre": "Spain",
-        "pj": 1,
+        "nombre": "Saudi Arabia",
+        "pj": 2,
         "pg": 0,
         "pe": 1,
-        "pp": 0,
-        "gf": 0,
-        "gc": 0,
-        "dg": 0,
+        "pp": 1,
+        "gf": 1,
+        "gc": 5,
+        "dg": -4,
         "puntos": 1
       }
     ]
