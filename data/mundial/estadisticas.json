@@ -360,14 +360,14 @@
     "puntos": 3
   },
   "Belgium": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
     "gf": 1,
     "gc": 1,
     "dg": 0,
-    "puntos": 1
+    "puntos": 2
   },
   "Bosnia & Herzegovina": {
     "pj": 2,
@@ -400,14 +400,14 @@
     "puntos": 4
   },
   "Cape Verde": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
-    "gf": 0,
-    "gc": 0,
+    "gf": 2,
+    "gc": 2,
     "dg": 0,
-    "puntos": 1
+    "puntos": 2
   },
   "Colombia": {
     "pj": 1,
@@ -530,14 +530,14 @@
     "puntos": 0
   },
   "Iran": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
     "gf": 2,
     "gc": 2,
     "dg": 0,
-    "puntos": 1
+    "puntos": 2
   },
   "Iraq": {
     "pj": 1,
@@ -800,14 +800,14 @@
     "puntos": 6
   },
   "Uruguay": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
-    "gf": 1,
-    "gc": 1,
+    "gf": 3,
+    "gc": 3,
     "dg": 0,
-    "puntos": 1
+    "puntos": 2
   },
   "Uzbekistan": {
     "pj": 1,
