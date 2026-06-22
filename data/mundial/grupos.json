@@ -297,6 +297,17 @@
     "grupo": "Group G",
     "paises": [
       {
+        "nombre": "Egypt",
+        "pj": 2,
+        "pg": 1,
+        "pe": 1,
+        "pp": 0,
+        "gf": 4,
+        "gc": 2,
+        "dg": 2,
+        "puntos": 4
+      },
+      {
         "nombre": "Iran",
         "pj": 2,
         "pg": 0,
@@ -320,24 +331,13 @@
       },
       {
         "nombre": "New Zealand",
-        "pj": 1,
+        "pj": 2,
         "pg": 0,
         "pe": 1,
-        "pp": 0,
-        "gf": 2,
-        "gc": 2,
-        "dg": 0,
-        "puntos": 1
-      },
-      {
-        "nombre": "Egypt",
-        "pj": 1,
-        "pg": 0,
-        "pe": 1,
-        "pp": 0,
-        "gf": 1,
-        "gc": 1,
-        "dg": 0,
+        "pp": 1,
+        "gf": 3,
+        "gc": 5,
+        "dg": -2,
         "puntos": 1
       }
     ]
