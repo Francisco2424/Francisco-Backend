@@ -395,47 +395,47 @@
     "grupo": "Group I",
     "paises": [
       {
-        "nombre": "Norway",
-        "pj": 1,
-        "pg": 1,
+        "nombre": "France",
+        "pj": 2,
+        "pg": 2,
         "pe": 0,
         "pp": 0,
-        "gf": 4,
+        "gf": 6,
         "gc": 1,
-        "dg": 3,
-        "puntos": 3
+        "dg": 5,
+        "puntos": 6
       },
       {
-        "nombre": "France",
-        "pj": 1,
-        "pg": 1,
+        "nombre": "Norway",
+        "pj": 2,
+        "pg": 2,
         "pe": 0,
         "pp": 0,
-        "gf": 3,
-        "gc": 1,
-        "dg": 2,
-        "puntos": 3
+        "gf": 7,
+        "gc": 3,
+        "dg": 4,
+        "puntos": 6
       },
       {
         "nombre": "Senegal",
-        "pj": 1,
+        "pj": 2,
         "pg": 0,
         "pe": 0,
-        "pp": 1,
-        "gf": 1,
-        "gc": 3,
-        "dg": -2,
+        "pp": 2,
+        "gf": 3,
+        "gc": 6,
+        "dg": -3,
         "puntos": 0
       },
       {
         "nombre": "Iraq",
-        "pj": 1,
+        "pj": 2,
         "pg": 0,
         "pe": 0,
-        "pp": 1,
+        "pp": 2,
         "gf": 1,
-        "gc": 4,
-        "dg": -3,
+        "gc": 7,
+        "dg": -6,
         "puntos": 0
       }
     ]
