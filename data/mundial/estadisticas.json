@@ -640,14 +640,14 @@
     "puntos": 3
   },
   "Portugal": {
-    "pj": 1,
-    "pg": 0,
+    "pj": 2,
+    "pg": 1,
     "pe": 1,
     "pp": 0,
-    "gf": 1,
+    "gf": 6,
     "gc": 1,
-    "dg": 0,
-    "puntos": 1
+    "dg": 5,
+    "puntos": 4
   },
   "Qatar": {
     "pj": 2,
@@ -780,13 +780,13 @@
     "puntos": 2
   },
   "Uzbekistan": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
     "pe": 0,
-    "pp": 1,
+    "pp": 2,
     "gf": 1,
-    "gc": 3,
-    "dg": -2,
+    "gc": 8,
+    "dg": -7,
     "puntos": 0
   },
   "W100": {
