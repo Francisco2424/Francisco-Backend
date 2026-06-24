@@ -390,14 +390,14 @@
     "puntos": 3
   },
   "Croatia": {
-    "pj": 1,
-    "pg": 0,
+    "pj": 2,
+    "pg": 1,
     "pe": 0,
     "pp": 1,
-    "gf": 2,
+    "gf": 3,
     "gc": 4,
-    "dg": -2,
-    "puntos": 0
+    "dg": -1,
+    "puntos": 3
   },
   "Curaçao": {
     "pj": 2,
@@ -450,14 +450,14 @@
     "puntos": 4
   },
   "England": {
-    "pj": 1,
+    "pj": 2,
     "pg": 1,
-    "pe": 0,
+    "pe": 1,
     "pp": 0,
     "gf": 4,
     "gc": 2,
     "dg": 2,
-    "puntos": 3
+    "puntos": 4
   },
   "France": {
     "pj": 2,
@@ -480,14 +480,14 @@
     "puntos": 6
   },
   "Ghana": {
-    "pj": 1,
+    "pj": 2,
     "pg": 1,
-    "pe": 0,
+    "pe": 1,
     "pp": 0,
     "gf": 1,
     "gc": 0,
     "dg": 1,
-    "puntos": 3
+    "puntos": 4
   },
   "Haiti": {
     "pj": 2,
@@ -620,13 +620,13 @@
     "puntos": 6
   },
   "Panama": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
     "pe": 0,
-    "pp": 1,
+    "pp": 2,
     "gf": 0,
-    "gc": 1,
-    "dg": -1,
+    "gc": 2,
+    "dg": -2,
     "puntos": 0
   },
   "Paraguay": {
