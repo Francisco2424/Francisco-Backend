@@ -380,14 +380,14 @@
     "puntos": 2
   },
   "Colombia": {
-    "pj": 1,
-    "pg": 1,
+    "pj": 2,
+    "pg": 2,
     "pe": 0,
     "pp": 0,
-    "gf": 3,
+    "gf": 4,
     "gc": 1,
-    "dg": 2,
-    "puntos": 3
+    "dg": 3,
+    "puntos": 6
   },
   "Croatia": {
     "pj": 2,
@@ -420,13 +420,13 @@
     "puntos": 1
   },
   "DR Congo": {
-    "pj": 1,
+    "pj": 2,
     "pg": 0,
     "pe": 1,
-    "pp": 0,
+    "pp": 1,
     "gf": 1,
-    "gc": 1,
-    "dg": 0,
+    "gc": 2,
+    "dg": -1,
     "puntos": 1
   },
   "Ecuador": {
