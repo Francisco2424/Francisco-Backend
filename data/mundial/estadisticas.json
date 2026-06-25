@@ -410,13 +410,13 @@
     "puntos": 1
   },
   "Czech Republic": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 1,
-    "pp": 1,
+    "pp": 2,
     "gf": 2,
-    "gc": 3,
-    "dg": -1,
+    "gc": 6,
+    "dg": -4,
     "puntos": 1
   },
   "DR Congo": {
@@ -570,14 +570,14 @@
     "puntos": 0
   },
   "Mexico": {
-    "pj": 2,
-    "pg": 2,
+    "pj": 3,
+    "pg": 3,
     "pe": 0,
     "pp": 0,
-    "gf": 3,
+    "gf": 6,
     "gc": 0,
-    "dg": 3,
-    "puntos": 6
+    "dg": 6,
+    "puntos": 9
   },
   "Morocco": {
     "pj": 3,
@@ -690,23 +690,23 @@
     "puntos": 0
   },
   "South Africa": {
-    "pj": 2,
-    "pg": 0,
+    "pj": 3,
+    "pg": 1,
     "pe": 1,
     "pp": 1,
-    "gf": 1,
+    "gf": 2,
     "gc": 3,
-    "dg": -2,
-    "puntos": 1
+    "dg": -1,
+    "puntos": 4
   },
   "South Korea": {
-    "pj": 2,
+    "pj": 3,
     "pg": 1,
     "pe": 0,
-    "pp": 1,
+    "pp": 2,
     "gf": 2,
-    "gc": 2,
-    "dg": 0,
+    "gc": 3,
+    "dg": -1,
     "puntos": 3
   },
   "Spain": {
