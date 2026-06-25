@@ -301,6 +301,32 @@
     "time": "12:00 UTC-7",
     "team1": "Switzerland",
     "team2": "Canada",
+    "score": {
+      "ft": [
+        2,
+        1
+      ],
+      "ht": [
+        0,
+        0
+      ]
+    },
+    "goals1": [
+      {
+        "name": "Rubén Vargas",
+        "minute": "46"
+      },
+      {
+        "name": "Johan Manzambi",
+        "minute": "57"
+      }
+    ],
+    "goals2": [
+      {
+        "name": "Promise David",
+        "minute": "76"
+      }
+    ],
     "group": "Group B",
     "ground": "Vancouver"
   },
@@ -310,6 +336,37 @@
     "time": "12:00 UTC-7",
     "team1": "Bosnia & Herzegovina",
     "team2": "Qatar",
+    "score": {
+      "ft": [
+        3,
+        1
+      ],
+      "ht": [
+        2,
+        1
+      ]
+    },
+    "goals1": [
+      {
+        "name": "Kerim Alajbegovic",
+        "minute": "29"
+      },
+      {
+        "name": "Mahmoud Abunada",
+        "minute": "34",
+        "owngoal": true
+      },
+      {
+        "name": "Ermin Mahmic",
+        "minute": "80"
+      }
+    ],
+    "goals2": [
+      {
+        "name": "Hassan Al-Haydos",
+        "minute": "42"
+      }
+    ],
     "group": "Group B",
     "ground": "Seattle"
   },
@@ -436,6 +493,31 @@
     "time": "18:00 UTC-4",
     "team1": "Scotland",
     "team2": "Brazil",
+    "score": {
+      "ft": [
+        0,
+        3
+      ],
+      "ht": [
+        0,
+        2
+      ]
+    },
+    "goals1": [],
+    "goals2": [
+      {
+        "name": "Vinícius Júnior",
+        "minute": "7"
+      },
+      {
+        "name": "Vinícius Júnior",
+        "minute": "45+3"
+      },
+      {
+        "name": "Matheus Cunha",
+        "minute": "60"
+      }
+    ],
     "group": "Group C",
     "ground": "Miami (Miami Gardens)"
   },
@@ -445,6 +527,45 @@
     "time": "18:00 UTC-4",
     "team1": "Morocco",
     "team2": "Haiti",
+    "score": {
+      "ft": [
+        4,
+        2
+      ],
+      "ht": [
+        2,
+        2
+      ]
+    },
+    "goals1": [
+      {
+        "name": "Achraf Hakimi",
+        "minute": "39"
+      },
+      {
+        "name": "Ismael Saibari",
+        "minute": "45+1"
+      },
+      {
+        "name": "Soufiane Rahimi",
+        "minute": "78"
+      },
+      {
+        "name": "Gessime Yassine",
+        "minute": "89"
+      }
+    ],
+    "goals2": [
+      {
+        "name": "Yassine Bounou",
+        "minute": "10",
+        "owngoal": true
+      },
+      {
+        "name": "Wilson Isidor",
+        "minute": "43"
+      }
+    ],
     "group": "Group C",
     "ground": "Atlanta"
   },

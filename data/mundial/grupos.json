@@ -52,47 +52,47 @@
     "grupo": "Group B",
     "paises": [
       {
-        "nombre": "Canada",
-        "pj": 2,
-        "pg": 1,
+        "nombre": "Switzerland",
+        "pj": 3,
+        "pg": 2,
         "pe": 1,
         "pp": 0,
         "gf": 7,
-        "gc": 1,
-        "dg": 6,
-        "puntos": 4
+        "gc": 3,
+        "dg": 4,
+        "puntos": 7
       },
       {
-        "nombre": "Switzerland",
-        "pj": 2,
+        "nombre": "Canada",
+        "pj": 3,
         "pg": 1,
         "pe": 1,
-        "pp": 0,
-        "gf": 5,
-        "gc": 2,
-        "dg": 3,
+        "pp": 1,
+        "gf": 8,
+        "gc": 3,
+        "dg": 5,
         "puntos": 4
       },
       {
         "nombre": "Bosnia & Herzegovina",
-        "pj": 2,
-        "pg": 0,
+        "pj": 3,
+        "pg": 1,
         "pe": 1,
         "pp": 1,
-        "gf": 2,
-        "gc": 5,
-        "dg": -3,
-        "puntos": 1
+        "gf": 5,
+        "gc": 6,
+        "dg": -1,
+        "puntos": 4
       },
       {
         "nombre": "Qatar",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
         "pe": 1,
-        "pp": 1,
-        "gf": 1,
-        "gc": 7,
-        "dg": -6,
+        "pp": 2,
+        "gf": 2,
+        "gc": 10,
+        "dg": -8,
         "puntos": 1
       }
     ]
@@ -102,46 +102,46 @@
     "paises": [
       {
         "nombre": "Brazil",
-        "pj": 2,
-        "pg": 1,
+        "pj": 3,
+        "pg": 2,
         "pe": 1,
         "pp": 0,
-        "gf": 4,
+        "gf": 7,
         "gc": 1,
-        "dg": 3,
-        "puntos": 4
+        "dg": 6,
+        "puntos": 7
       },
       {
         "nombre": "Morocco",
-        "pj": 2,
-        "pg": 1,
+        "pj": 3,
+        "pg": 2,
         "pe": 1,
         "pp": 0,
-        "gf": 2,
-        "gc": 1,
-        "dg": 1,
-        "puntos": 4
+        "gf": 6,
+        "gc": 3,
+        "dg": 3,
+        "puntos": 7
       },
       {
         "nombre": "Scotland",
-        "pj": 2,
+        "pj": 3,
         "pg": 1,
         "pe": 0,
-        "pp": 1,
+        "pp": 2,
         "gf": 1,
-        "gc": 1,
-        "dg": 0,
+        "gc": 4,
+        "dg": -3,
         "puntos": 3
       },
       {
         "nombre": "Haiti",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
         "pe": 0,
-        "pp": 2,
-        "gf": 0,
-        "gc": 4,
-        "dg": -4,
+        "pp": 3,
+        "gf": 2,
+        "gc": 8,
+        "dg": -6,
         "puntos": 0
       }
     ]
