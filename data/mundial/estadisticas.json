@@ -260,14 +260,14 @@
     "puntos": 6
   },
   "Australia": {
-    "pj": 2,
+    "pj": 3,
     "pg": 1,
-    "pe": 0,
+    "pe": 1,
     "pp": 1,
     "gf": 2,
     "gc": 2,
     "dg": 0,
-    "puntos": 3
+    "puntos": 4
   },
   "Austria": {
     "pj": 2,
@@ -580,14 +580,14 @@
     "puntos": 0
   },
   "Paraguay": {
-    "pj": 2,
+    "pj": 3,
     "pg": 1,
-    "pe": 0,
+    "pe": 1,
     "pp": 1,
     "gf": 2,
     "gc": 4,
     "dg": -2,
-    "puntos": 3
+    "puntos": 4
   },
   "Portugal": {
     "pj": 2,
@@ -700,23 +700,23 @@
     "puntos": 0
   },
   "Turkey": {
-    "pj": 2,
-    "pg": 0,
+    "pj": 3,
+    "pg": 1,
     "pe": 0,
     "pp": 2,
-    "gf": 0,
-    "gc": 3,
-    "dg": -3,
-    "puntos": 0
+    "gf": 3,
+    "gc": 5,
+    "dg": -2,
+    "puntos": 3
   },
   "USA": {
-    "pj": 2,
+    "pj": 3,
     "pg": 2,
     "pe": 0,
-    "pp": 0,
-    "gf": 6,
-    "gc": 1,
-    "dg": 5,
+    "pp": 1,
+    "gf": 8,
+    "gc": 4,
+    "dg": 4,
     "puntos": 6
   },
   "Uruguay": {
