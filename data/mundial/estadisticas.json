@@ -280,14 +280,14 @@
     "puntos": 4
   },
   "Cape Verde": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
-    "pe": 2,
+    "pe": 3,
     "pp": 0,
     "gf": 2,
     "gc": 2,
     "dg": 0,
-    "puntos": 2
+    "puntos": 3
   },
   "Colombia": {
     "pj": 2,
@@ -370,14 +370,14 @@
     "puntos": 4
   },
   "France": {
-    "pj": 2,
-    "pg": 2,
+    "pj": 3,
+    "pg": 3,
     "pe": 0,
     "pp": 0,
-    "gf": 6,
-    "gc": 1,
-    "dg": 5,
-    "puntos": 6
+    "gf": 10,
+    "gc": 2,
+    "dg": 8,
+    "puntos": 9
   },
   "Germany": {
     "pj": 3,
@@ -420,13 +420,13 @@
     "puntos": 2
   },
   "Iraq": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 0,
-    "pp": 2,
+    "pp": 3,
     "gf": 1,
-    "gc": 7,
-    "dg": -6,
+    "gc": 12,
+    "dg": -11,
     "puntos": 0
   },
   "Ivory Coast": {
@@ -520,13 +520,13 @@
     "puntos": 1
   },
   "Norway": {
-    "pj": 2,
+    "pj": 3,
     "pg": 2,
     "pe": 0,
-    "pp": 0,
-    "gf": 7,
-    "gc": 3,
-    "dg": 4,
+    "pp": 1,
+    "gf": 8,
+    "gc": 7,
+    "dg": 1,
     "puntos": 6
   },
   "Panama": {
@@ -570,14 +570,14 @@
     "puntos": 1
   },
   "Saudi Arabia": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 1,
     "gf": 1,
     "gc": 5,
     "dg": -4,
-    "puntos": 1
+    "puntos": 2
   },
   "Scotland": {
     "pj": 3,
@@ -590,14 +590,14 @@
     "puntos": 3
   },
   "Senegal": {
-    "pj": 2,
-    "pg": 0,
+    "pj": 3,
+    "pg": 1,
     "pe": 0,
     "pp": 2,
-    "gf": 3,
+    "gf": 8,
     "gc": 6,
-    "dg": -3,
-    "puntos": 0
+    "dg": 2,
+    "puntos": 3
   },
   "South Africa": {
     "pj": 3,
