@@ -297,47 +297,47 @@
     "grupo": "Group G",
     "paises": [
       {
-        "nombre": "Egypt",
-        "pj": 2,
+        "nombre": "Belgium",
+        "pj": 3,
         "pg": 1,
-        "pe": 1,
+        "pe": 2,
         "pp": 0,
-        "gf": 4,
+        "gf": 6,
         "gc": 2,
+        "dg": 4,
+        "puntos": 5
+      },
+      {
+        "nombre": "Egypt",
+        "pj": 3,
+        "pg": 1,
+        "pe": 2,
+        "pp": 0,
+        "gf": 5,
+        "gc": 3,
         "dg": 2,
-        "puntos": 4
+        "puntos": 5
       },
       {
         "nombre": "Iran",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
-        "pe": 2,
+        "pe": 3,
         "pp": 0,
-        "gf": 2,
-        "gc": 2,
+        "gf": 3,
+        "gc": 3,
         "dg": 0,
-        "puntos": 2
-      },
-      {
-        "nombre": "Belgium",
-        "pj": 2,
-        "pg": 0,
-        "pe": 2,
-        "pp": 0,
-        "gf": 1,
-        "gc": 1,
-        "dg": 0,
-        "puntos": 2
+        "puntos": 3
       },
       {
         "nombre": "New Zealand",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
         "pe": 1,
-        "pp": 1,
-        "gf": 3,
-        "gc": 5,
-        "dg": -2,
+        "pp": 2,
+        "gf": 4,
+        "gc": 10,
+        "dg": -6,
         "puntos": 1
       }
     ]
@@ -347,14 +347,14 @@
     "paises": [
       {
         "nombre": "Spain",
-        "pj": 2,
-        "pg": 1,
+        "pj": 3,
+        "pg": 2,
         "pe": 1,
         "pp": 0,
-        "gf": 4,
+        "gf": 5,
         "gc": 0,
-        "dg": 4,
-        "puntos": 4
+        "dg": 5,
+        "puntos": 7
       },
       {
         "nombre": "Cape Verde",
@@ -369,13 +369,13 @@
       },
       {
         "nombre": "Uruguay",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
         "pe": 2,
-        "pp": 0,
+        "pp": 1,
         "gf": 3,
-        "gc": 3,
-        "dg": 0,
+        "gc": 4,
+        "dg": -1,
         "puntos": 2
       },
       {
