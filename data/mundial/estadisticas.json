@@ -290,24 +290,24 @@
     "puntos": 3
   },
   "Colombia": {
-    "pj": 2,
+    "pj": 3,
     "pg": 2,
-    "pe": 0,
+    "pe": 1,
     "pp": 0,
     "gf": 4,
     "gc": 1,
     "dg": 3,
-    "puntos": 6
+    "puntos": 7
   },
   "Croatia": {
-    "pj": 2,
-    "pg": 1,
+    "pj": 3,
+    "pg": 2,
     "pe": 0,
     "pp": 1,
-    "gf": 3,
-    "gc": 4,
-    "dg": -1,
-    "puntos": 3
+    "gf": 5,
+    "gc": 5,
+    "dg": 0,
+    "puntos": 6
   },
   "Curaçao": {
     "pj": 3,
@@ -330,14 +330,14 @@
     "puntos": 1
   },
   "DR Congo": {
-    "pj": 2,
-    "pg": 0,
+    "pj": 3,
+    "pg": 1,
     "pe": 1,
     "pp": 1,
-    "gf": 1,
-    "gc": 2,
-    "dg": -1,
-    "puntos": 1
+    "gf": 4,
+    "gc": 3,
+    "dg": 1,
+    "puntos": 4
   },
   "Ecuador": {
     "pj": 3,
@@ -360,14 +360,14 @@
     "puntos": 5
   },
   "England": {
-    "pj": 2,
-    "pg": 1,
+    "pj": 3,
+    "pg": 2,
     "pe": 1,
     "pp": 0,
-    "gf": 4,
+    "gf": 6,
     "gc": 2,
-    "dg": 2,
-    "puntos": 4
+    "dg": 4,
+    "puntos": 7
   },
   "France": {
     "pj": 3,
@@ -390,13 +390,13 @@
     "puntos": 6
   },
   "Ghana": {
-    "pj": 2,
+    "pj": 3,
     "pg": 1,
     "pe": 1,
-    "pp": 0,
-    "gf": 1,
-    "gc": 0,
-    "dg": 1,
+    "pp": 1,
+    "gf": 2,
+    "gc": 2,
+    "dg": 0,
     "puntos": 4
   },
   "Haiti": {
@@ -530,13 +530,13 @@
     "puntos": 6
   },
   "Panama": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 0,
-    "pp": 2,
+    "pp": 3,
     "gf": 0,
-    "gc": 2,
-    "dg": -2,
+    "gc": 4,
+    "dg": -4,
     "puntos": 0
   },
   "Paraguay": {
@@ -550,14 +550,14 @@
     "puntos": 4
   },
   "Portugal": {
-    "pj": 2,
+    "pj": 3,
     "pg": 1,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
     "gf": 6,
     "gc": 1,
     "dg": 5,
-    "puntos": 4
+    "puntos": 5
   },
   "Qatar": {
     "pj": 3,
@@ -690,13 +690,13 @@
     "puntos": 2
   },
   "Uzbekistan": {
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 0,
-    "pp": 2,
-    "gf": 1,
-    "gc": 8,
-    "dg": -7,
+    "pp": 3,
+    "gf": 2,
+    "gc": 11,
+    "dg": -9,
     "puntos": 0
   },
   "W100": {
