@@ -445,46 +445,46 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 2,
-        "pg": 2,
+        "pj": 3,
+        "pg": 3,
         "pe": 0,
         "pp": 0,
-        "gf": 5,
-        "gc": 0,
-        "dg": 5,
-        "puntos": 6
+        "gf": 8,
+        "gc": 1,
+        "dg": 7,
+        "puntos": 9
       },
       {
         "nombre": "Austria",
-        "pj": 2,
+        "pj": 3,
         "pg": 1,
-        "pe": 0,
+        "pe": 1,
         "pp": 1,
-        "gf": 3,
-        "gc": 3,
+        "gf": 6,
+        "gc": 6,
         "dg": 0,
-        "puntos": 3
+        "puntos": 4
       },
       {
         "nombre": "Algeria",
-        "pj": 2,
+        "pj": 3,
         "pg": 1,
-        "pe": 0,
+        "pe": 1,
         "pp": 1,
-        "gf": 2,
-        "gc": 4,
+        "gf": 5,
+        "gc": 7,
         "dg": -2,
-        "puntos": 3
+        "puntos": 4
       },
       {
         "nombre": "Jordan",
-        "pj": 2,
+        "pj": 3,
         "pg": 0,
         "pe": 0,
-        "pp": 2,
-        "gf": 2,
-        "gc": 5,
-        "dg": -3,
+        "pp": 3,
+        "gf": 3,
+        "gc": 8,
+        "dg": -5,
         "puntos": 0
       }
     ]
