@@ -15,13 +15,13 @@
       },
       {
         "nombre": "South Africa",
-        "pj": 3,
+        "pj": 4,
         "pg": 1,
         "pe": 1,
-        "pp": 1,
+        "pp": 2,
         "gf": 2,
-        "gc": 3,
-        "dg": -1,
+        "gc": 4,
+        "dg": -2,
         "puntos": 4
       },
       {
@@ -52,6 +52,17 @@
     "grupo": "Group B",
     "paises": [
       {
+        "nombre": "Canada",
+        "pj": 4,
+        "pg": 2,
+        "pe": 1,
+        "pp": 1,
+        "gf": 9,
+        "gc": 3,
+        "dg": 6,
+        "puntos": 7
+      },
+      {
         "nombre": "Switzerland",
         "pj": 3,
         "pg": 2,
@@ -61,17 +72,6 @@
         "gc": 3,
         "dg": 4,
         "puntos": 7
-      },
-      {
-        "nombre": "Canada",
-        "pj": 3,
-        "pg": 1,
-        "pe": 1,
-        "pp": 1,
-        "gf": 8,
-        "gc": 3,
-        "dg": 5,
-        "puntos": 4
       },
       {
         "nombre": "Bosnia & Herzegovina",
