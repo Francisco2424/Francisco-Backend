@@ -60,14 +60,14 @@
     "puntos": 4
   },
   "Brazil": {
-    "pj": 3,
-    "pg": 2,
+    "pj": 4,
+    "pg": 3,
     "pe": 1,
     "pp": 0,
-    "gf": 7,
-    "gc": 1,
-    "dg": 6,
-    "puntos": 7
+    "gf": 9,
+    "gc": 2,
+    "dg": 7,
+    "puntos": 10
   },
   "Canada": {
     "pj": 4,
@@ -240,13 +240,13 @@
     "puntos": 6
   },
   "Japan": {
-    "pj": 3,
+    "pj": 4,
     "pg": 1,
     "pe": 2,
-    "pp": 0,
-    "gf": 7,
-    "gc": 3,
-    "dg": 4,
+    "pp": 1,
+    "gf": 8,
+    "gc": 5,
+    "dg": 3,
     "puntos": 5
   },
   "Jordan": {
