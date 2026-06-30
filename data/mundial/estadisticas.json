@@ -180,14 +180,14 @@
     "puntos": 9
   },
   "Germany": {
-    "pj": 3,
+    "pj": 4,
     "pg": 2,
-    "pe": 0,
+    "pe": 1,
     "pp": 1,
-    "gf": 10,
-    "gc": 4,
+    "gf": 11,
+    "gc": 5,
     "dg": 6,
-    "puntos": 6
+    "puntos": 7
   },
   "Ghana": {
     "pj": 3,
@@ -340,14 +340,14 @@
     "puntos": 0
   },
   "Paraguay": {
-    "pj": 3,
+    "pj": 4,
     "pg": 1,
-    "pe": 1,
+    "pe": 2,
     "pp": 1,
-    "gf": 2,
-    "gc": 4,
+    "gf": 3,
+    "gc": 5,
     "dg": -2,
-    "puntos": 4
+    "puntos": 5
   },
   "Portugal": {
     "pj": 3,
