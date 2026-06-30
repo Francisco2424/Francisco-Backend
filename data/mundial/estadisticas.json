@@ -290,24 +290,24 @@
     "puntos": 9
   },
   "Morocco": {
-    "pj": 3,
+    "pj": 4,
     "pg": 2,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
-    "gf": 6,
-    "gc": 3,
+    "gf": 7,
+    "gc": 4,
     "dg": 3,
-    "puntos": 7
+    "puntos": 8
   },
   "Netherlands": {
-    "pj": 3,
+    "pj": 4,
     "pg": 2,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
-    "gf": 10,
-    "gc": 4,
+    "gf": 11,
+    "gc": 5,
     "dg": 6,
-    "puntos": 7
+    "puntos": 8
   },
   "New Zealand": {
     "pj": 3,
