@@ -2761,6 +2761,27 @@
     "time": "17:00 UTC-7",
     "team1": "USA",
     "team2": "Bosnia & Herzegovina",
+    "score": {
+      "ft": [
+        2,
+        0
+      ],
+      "ht": [
+        1,
+        0
+      ]
+    },
+    "goals1": [
+      {
+        "name": "Folarin Balogun",
+        "minute": "45"
+      },
+      {
+        "name": "Malik Tillman",
+        "minute": "82"
+      }
+    ],
+    "goals2": [],
     "ground": "San Francisco Bay Area (Santa Clara)"
   },
   {
@@ -2898,7 +2919,7 @@
     "date": "2026-07-05",
     "time": "18:00 UTC-6",
     "team1": "Mexico",
-    "team2": "W80",
+    "team2": "England",
     "ground": "Mexico City"
   },
   {
@@ -2915,8 +2936,8 @@
     "num": 94,
     "date": "2026-07-06",
     "time": "17:00 UTC-7",
-    "team1": "W81",
-    "team2": "W82",
+    "team1": "USA",
+    "team2": "Belgium",
     "ground": "Seattle"
   },
   {

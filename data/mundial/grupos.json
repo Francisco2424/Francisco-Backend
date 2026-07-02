@@ -75,13 +75,13 @@
       },
       {
         "nombre": "Bosnia & Herzegovina",
-        "pj": 3,
+        "pj": 4,
         "pg": 1,
         "pe": 1,
-        "pp": 1,
+        "pp": 2,
         "gf": 5,
-        "gc": 6,
-        "dg": -1,
+        "gc": 8,
+        "dg": -3,
         "puntos": 4
       },
       {
@@ -151,14 +151,14 @@
     "paises": [
       {
         "nombre": "USA",
-        "pj": 3,
-        "pg": 2,
+        "pj": 4,
+        "pg": 3,
         "pe": 0,
         "pp": 1,
-        "gf": 8,
+        "gf": 10,
         "gc": 4,
-        "dg": 4,
-        "puntos": 6
+        "dg": 6,
+        "puntos": 9
       },
       {
         "nombre": "Paraguay",
