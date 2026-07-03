@@ -347,14 +347,14 @@
     "paises": [
       {
         "nombre": "Spain",
-        "pj": 3,
-        "pg": 2,
+        "pj": 4,
+        "pg": 3,
         "pe": 1,
         "pp": 0,
-        "gf": 5,
+        "gf": 8,
         "gc": 0,
-        "dg": 5,
-        "puntos": 7
+        "dg": 8,
+        "puntos": 10
       },
       {
         "nombre": "Cape Verde",
@@ -455,17 +455,6 @@
         "puntos": 9
       },
       {
-        "nombre": "Austria",
-        "pj": 3,
-        "pg": 1,
-        "pe": 1,
-        "pp": 1,
-        "gf": 6,
-        "gc": 6,
-        "dg": 0,
-        "puntos": 4
-      },
-      {
         "nombre": "Algeria",
         "pj": 3,
         "pg": 1,
@@ -474,6 +463,17 @@
         "gf": 5,
         "gc": 7,
         "dg": -2,
+        "puntos": 4
+      },
+      {
+        "nombre": "Austria",
+        "pj": 4,
+        "pg": 1,
+        "pe": 1,
+        "pp": 2,
+        "gf": 6,
+        "gc": 9,
+        "dg": -3,
         "puntos": 4
       },
       {
@@ -493,6 +493,17 @@
     "grupo": "Group K",
     "paises": [
       {
+        "nombre": "Portugal",
+        "pj": 4,
+        "pg": 2,
+        "pe": 2,
+        "pp": 0,
+        "gf": 8,
+        "gc": 2,
+        "dg": 6,
+        "puntos": 8
+      },
+      {
         "nombre": "Colombia",
         "pj": 3,
         "pg": 2,
@@ -502,17 +513,6 @@
         "gc": 1,
         "dg": 3,
         "puntos": 7
-      },
-      {
-        "nombre": "Portugal",
-        "pj": 3,
-        "pg": 1,
-        "pe": 2,
-        "pp": 0,
-        "gf": 6,
-        "gc": 1,
-        "dg": 5,
-        "puntos": 5
       },
       {
         "nombre": "DR Congo",
@@ -554,13 +554,13 @@
       },
       {
         "nombre": "Croatia",
-        "pj": 3,
+        "pj": 4,
         "pg": 2,
         "pe": 0,
-        "pp": 1,
-        "gf": 5,
-        "gc": 5,
-        "dg": 0,
+        "pp": 2,
+        "gf": 6,
+        "gc": 7,
+        "dg": -1,
         "puntos": 6
       },
       {
