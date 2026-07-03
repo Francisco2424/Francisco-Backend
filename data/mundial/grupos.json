@@ -52,6 +52,17 @@
     "grupo": "Group B",
     "paises": [
       {
+        "nombre": "Switzerland",
+        "pj": 4,
+        "pg": 3,
+        "pe": 1,
+        "pp": 0,
+        "gf": 9,
+        "gc": 3,
+        "dg": 6,
+        "puntos": 10
+      },
+      {
         "nombre": "Canada",
         "pj": 4,
         "pg": 2,
@@ -60,17 +71,6 @@
         "gf": 9,
         "gc": 3,
         "dg": 6,
-        "puntos": 7
-      },
-      {
-        "nombre": "Switzerland",
-        "pj": 3,
-        "pg": 2,
-        "pe": 1,
-        "pp": 0,
-        "gf": 7,
-        "gc": 3,
-        "dg": 4,
         "puntos": 7
       },
       {
@@ -455,17 +455,6 @@
         "puntos": 9
       },
       {
-        "nombre": "Algeria",
-        "pj": 3,
-        "pg": 1,
-        "pe": 1,
-        "pp": 1,
-        "gf": 5,
-        "gc": 7,
-        "dg": -2,
-        "puntos": 4
-      },
-      {
         "nombre": "Austria",
         "pj": 4,
         "pg": 1,
@@ -474,6 +463,17 @@
         "gf": 6,
         "gc": 9,
         "dg": -3,
+        "puntos": 4
+      },
+      {
+        "nombre": "Algeria",
+        "pj": 4,
+        "pg": 1,
+        "pe": 1,
+        "pp": 2,
+        "gf": 5,
+        "gc": 9,
+        "dg": -4,
         "puntos": 4
       },
       {
