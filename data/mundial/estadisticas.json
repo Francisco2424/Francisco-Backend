@@ -90,14 +90,14 @@
     "puntos": 4
   },
   "Colombia": {
-    "pj": 3,
-    "pg": 2,
+    "pj": 4,
+    "pg": 3,
     "pe": 1,
     "pp": 0,
-    "gf": 4,
+    "gf": 5,
     "gc": 1,
-    "dg": 3,
-    "puntos": 7
+    "dg": 4,
+    "puntos": 10
   },
   "Croatia": {
     "pj": 4,
@@ -190,13 +190,13 @@
     "puntos": 7
   },
   "Ghana": {
-    "pj": 3,
+    "pj": 4,
     "pg": 1,
     "pe": 1,
-    "pp": 1,
+    "pp": 2,
     "gf": 2,
-    "gc": 2,
-    "dg": 0,
+    "gc": 3,
+    "dg": -1,
     "puntos": 4
   },
   "Haiti": {
