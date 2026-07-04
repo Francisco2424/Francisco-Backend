@@ -161,6 +161,17 @@
         "puntos": 9
       },
       {
+        "nombre": "Australia",
+        "pj": 4,
+        "pg": 1,
+        "pe": 2,
+        "pp": 1,
+        "gf": 3,
+        "gc": 3,
+        "dg": 0,
+        "puntos": 5
+      },
+      {
         "nombre": "Paraguay",
         "pj": 4,
         "pg": 1,
@@ -170,17 +181,6 @@
         "gc": 5,
         "dg": -2,
         "puntos": 5
-      },
-      {
-        "nombre": "Australia",
-        "pj": 3,
-        "pg": 1,
-        "pe": 1,
-        "pp": 1,
-        "gf": 2,
-        "gc": 2,
-        "dg": 0,
-        "puntos": 4
       },
       {
         "nombre": "Turkey",
@@ -309,14 +309,14 @@
       },
       {
         "nombre": "Egypt",
-        "pj": 3,
+        "pj": 4,
         "pg": 1,
-        "pe": 2,
+        "pe": 3,
         "pp": 0,
-        "gf": 5,
-        "gc": 3,
+        "gf": 6,
+        "gc": 4,
         "dg": 2,
-        "puntos": 5
+        "puntos": 6
       },
       {
         "nombre": "Iran",
@@ -358,14 +358,14 @@
       },
       {
         "nombre": "Cape Verde",
-        "pj": 3,
+        "pj": 4,
         "pg": 0,
-        "pe": 3,
+        "pe": 4,
         "pp": 0,
-        "gf": 2,
-        "gc": 2,
+        "gf": 3,
+        "gc": 3,
         "dg": 0,
-        "puntos": 3
+        "puntos": 4
       },
       {
         "nombre": "Uruguay",
@@ -445,14 +445,14 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 3,
+        "pj": 4,
         "pg": 3,
-        "pe": 0,
+        "pe": 1,
         "pp": 0,
-        "gf": 8,
-        "gc": 1,
+        "gf": 9,
+        "gc": 2,
         "dg": 7,
-        "puntos": 9
+        "puntos": 10
       },
       {
         "nombre": "Austria",
