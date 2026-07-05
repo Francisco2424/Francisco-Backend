@@ -70,13 +70,13 @@
     "puntos": 10
   },
   "Canada": {
-    "pj": 4,
+    "pj": 5,
     "pg": 2,
     "pe": 1,
-    "pp": 1,
+    "pp": 2,
     "gf": 9,
-    "gc": 3,
-    "dg": 6,
+    "gc": 6,
+    "dg": 3,
     "puntos": 7
   },
   "Cape Verde": {
@@ -170,14 +170,14 @@
     "puntos": 10
   },
   "France": {
-    "pj": 4,
-    "pg": 4,
+    "pj": 5,
+    "pg": 5,
     "pe": 0,
     "pp": 0,
-    "gf": 13,
+    "gf": 14,
     "gc": 2,
-    "dg": 11,
-    "puntos": 12
+    "dg": 12,
+    "puntos": 15
   },
   "Germany": {
     "pj": 4,
@@ -290,14 +290,14 @@
     "puntos": 12
   },
   "Morocco": {
-    "pj": 4,
-    "pg": 2,
+    "pj": 5,
+    "pg": 3,
     "pe": 2,
     "pp": 0,
-    "gf": 7,
+    "gf": 10,
     "gc": 4,
-    "dg": 3,
-    "puntos": 8
+    "dg": 6,
+    "puntos": 11
   },
   "Netherlands": {
     "pj": 4,
@@ -340,13 +340,13 @@
     "puntos": 0
   },
   "Paraguay": {
-    "pj": 4,
+    "pj": 5,
     "pg": 1,
     "pe": 2,
-    "pp": 1,
+    "pp": 2,
     "gf": 3,
-    "gc": 5,
-    "dg": -2,
+    "gc": 6,
+    "dg": -3,
     "puntos": 5
   },
   "Portugal": {

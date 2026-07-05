@@ -64,13 +64,13 @@
       },
       {
         "nombre": "Canada",
-        "pj": 4,
+        "pj": 5,
         "pg": 2,
         "pe": 1,
-        "pp": 1,
+        "pp": 2,
         "gf": 9,
-        "gc": 3,
-        "dg": 6,
+        "gc": 6,
+        "dg": 3,
         "puntos": 7
       },
       {
@@ -101,6 +101,17 @@
     "grupo": "Group C",
     "paises": [
       {
+        "nombre": "Morocco",
+        "pj": 5,
+        "pg": 3,
+        "pe": 2,
+        "pp": 0,
+        "gf": 10,
+        "gc": 4,
+        "dg": 6,
+        "puntos": 11
+      },
+      {
         "nombre": "Brazil",
         "pj": 4,
         "pg": 3,
@@ -110,17 +121,6 @@
         "gc": 2,
         "dg": 7,
         "puntos": 10
-      },
-      {
-        "nombre": "Morocco",
-        "pj": 4,
-        "pg": 2,
-        "pe": 2,
-        "pp": 0,
-        "gf": 7,
-        "gc": 4,
-        "dg": 3,
-        "puntos": 8
       },
       {
         "nombre": "Scotland",
@@ -173,13 +173,13 @@
       },
       {
         "nombre": "Paraguay",
-        "pj": 4,
+        "pj": 5,
         "pg": 1,
         "pe": 2,
-        "pp": 1,
+        "pp": 2,
         "gf": 3,
-        "gc": 5,
-        "dg": -2,
+        "gc": 6,
+        "dg": -3,
         "puntos": 5
       },
       {
@@ -396,14 +396,14 @@
     "paises": [
       {
         "nombre": "France",
-        "pj": 4,
-        "pg": 4,
+        "pj": 5,
+        "pg": 5,
         "pe": 0,
         "pp": 0,
-        "gf": 13,
+        "gf": 14,
         "gc": 2,
-        "dg": 11,
-        "puntos": 12
+        "dg": 12,
+        "puntos": 15
       },
       {
         "nombre": "Norway",
