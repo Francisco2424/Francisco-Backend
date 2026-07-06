@@ -60,13 +60,13 @@
     "puntos": 4
   },
   "Brazil": {
-    "pj": 4,
+    "pj": 5,
     "pg": 3,
     "pe": 1,
-    "pp": 0,
-    "gf": 9,
-    "gc": 2,
-    "dg": 7,
+    "pp": 1,
+    "gf": 10,
+    "gc": 4,
+    "dg": 6,
     "puntos": 10
   },
   "Canada": {
@@ -320,14 +320,14 @@
     "puntos": 1
   },
   "Norway": {
-    "pj": 4,
-    "pg": 3,
+    "pj": 5,
+    "pg": 4,
     "pe": 0,
     "pp": 1,
-    "gf": 10,
-    "gc": 8,
-    "dg": 2,
-    "puntos": 9
+    "gf": 12,
+    "gc": 9,
+    "dg": 3,
+    "puntos": 12
   },
   "Panama": {
     "pj": 3,
