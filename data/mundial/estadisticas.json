@@ -160,14 +160,14 @@
     "puntos": 6
   },
   "England": {
-    "pj": 4,
-    "pg": 3,
+    "pj": 5,
+    "pg": 4,
     "pe": 1,
     "pp": 0,
-    "gf": 8,
-    "gc": 3,
-    "dg": 5,
-    "puntos": 10
+    "gf": 11,
+    "gc": 5,
+    "dg": 6,
+    "puntos": 13
   },
   "France": {
     "pj": 5,
@@ -280,13 +280,13 @@
     "puntos": 0
   },
   "Mexico": {
-    "pj": 4,
+    "pj": 5,
     "pg": 4,
     "pe": 0,
-    "pp": 0,
-    "gf": 8,
-    "gc": 0,
-    "dg": 8,
+    "pp": 1,
+    "gf": 10,
+    "gc": 3,
+    "dg": 7,
     "puntos": 12
   },
   "Morocco": {
