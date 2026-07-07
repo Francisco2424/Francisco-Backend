@@ -350,13 +350,13 @@
     "puntos": 5
   },
   "Portugal": {
-    "pj": 4,
+    "pj": 5,
     "pg": 2,
     "pe": 2,
-    "pp": 0,
+    "pp": 1,
     "gf": 8,
-    "gc": 2,
-    "dg": 6,
+    "gc": 3,
+    "dg": 5,
     "puntos": 8
   },
   "Qatar": {
@@ -420,14 +420,14 @@
     "puntos": 3
   },
   "Spain": {
-    "pj": 4,
-    "pg": 3,
+    "pj": 5,
+    "pg": 4,
     "pe": 1,
     "pp": 0,
-    "gf": 8,
+    "gf": 9,
     "gc": 0,
-    "dg": 8,
-    "puntos": 10
+    "dg": 9,
+    "puntos": 13
   },
   "Sweden": {
     "pj": 4,
