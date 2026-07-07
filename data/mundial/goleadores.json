@@ -1,14 +1,14 @@
 [
   [
+    "Lionel Messi",
+    8
+  ],
+  [
     "Kylian Mbappé",
     7
   ],
   [
     "Erling Haaland",
-    7
-  ],
-  [
-    "Lionel Messi",
     7
   ],
   [
@@ -149,6 +149,10 @@
   ],
   [
     "Ramin Rezaeian",
+    2
+  ],
+  [
+    "Mostafa Zico",
     2
   ],
   [
@@ -401,10 +405,6 @@
   ],
   [
     "Finn Surman",
-    1
-  ],
-  [
-    "Mostafa Zico",
     1
   ],
   [
@@ -661,6 +661,18 @@
   ],
   [
     "Hans Vanaken",
+    1
+  ],
+  [
+    "Cristian Romero",
+    1
+  ],
+  [
+    "Enzo Fernández",
+    1
+  ],
+  [
+    "Yasser Ibrahim",
     1
   ]
 ]

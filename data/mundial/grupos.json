@@ -309,13 +309,13 @@
       },
       {
         "nombre": "Egypt",
-        "pj": 4,
+        "pj": 5,
         "pg": 1,
         "pe": 3,
-        "pp": 0,
-        "gf": 6,
-        "gc": 4,
-        "dg": 2,
+        "pp": 1,
+        "gf": 8,
+        "gc": 7,
+        "dg": 1,
         "puntos": 6
       },
       {
@@ -445,14 +445,14 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 4,
-        "pg": 3,
+        "pj": 5,
+        "pg": 4,
         "pe": 1,
         "pp": 0,
-        "gf": 9,
-        "gc": 2,
-        "dg": 7,
-        "puntos": 10
+        "gf": 12,
+        "gc": 4,
+        "dg": 8,
+        "puntos": 13
       },
       {
         "nombre": "Austria",
