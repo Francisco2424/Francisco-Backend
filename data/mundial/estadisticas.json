@@ -40,14 +40,14 @@
     "puntos": 4
   },
   "Belgium": {
-    "pj": 4,
-    "pg": 1,
+    "pj": 5,
+    "pg": 2,
     "pe": 3,
     "pp": 0,
-    "gf": 8,
-    "gc": 4,
-    "dg": 4,
-    "puntos": 6
+    "gf": 12,
+    "gc": 5,
+    "dg": 7,
+    "puntos": 9
   },
   "Bosnia & Herzegovina": {
     "pj": 4,
@@ -470,13 +470,13 @@
     "puntos": 3
   },
   "USA": {
-    "pj": 4,
+    "pj": 5,
     "pg": 3,
     "pe": 0,
-    "pp": 1,
-    "gf": 10,
-    "gc": 4,
-    "dg": 6,
+    "pp": 2,
+    "gf": 11,
+    "gc": 8,
+    "dg": 3,
     "puntos": 9
   },
   "Uruguay": {
