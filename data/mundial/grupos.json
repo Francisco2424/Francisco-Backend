@@ -298,13 +298,13 @@
     "paises": [
       {
         "nombre": "Belgium",
-        "pj": 5,
+        "pj": 6,
         "pg": 2,
         "pe": 3,
-        "pp": 0,
-        "gf": 12,
-        "gc": 5,
-        "dg": 7,
+        "pp": 1,
+        "gf": 13,
+        "gc": 7,
+        "dg": 6,
         "puntos": 9
       },
       {
@@ -347,14 +347,14 @@
     "paises": [
       {
         "nombre": "Spain",
-        "pj": 5,
-        "pg": 4,
+        "pj": 6,
+        "pg": 5,
         "pe": 1,
         "pp": 0,
-        "gf": 9,
-        "gc": 0,
-        "dg": 9,
-        "puntos": 13
+        "gf": 11,
+        "gc": 1,
+        "dg": 10,
+        "puntos": 16
       },
       {
         "nombre": "Cape Verde",
