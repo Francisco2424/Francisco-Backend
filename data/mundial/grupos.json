@@ -407,14 +407,14 @@
       },
       {
         "nombre": "Norway",
-        "pj": 5,
+        "pj": 6,
         "pg": 4,
-        "pe": 0,
+        "pe": 1,
         "pp": 1,
-        "gf": 12,
-        "gc": 9,
+        "gf": 13,
+        "gc": 10,
         "dg": 3,
-        "puntos": 12
+        "puntos": 13
       },
       {
         "nombre": "Senegal",
@@ -543,14 +543,14 @@
     "paises": [
       {
         "nombre": "England",
-        "pj": 5,
+        "pj": 6,
         "pg": 4,
-        "pe": 1,
+        "pe": 2,
         "pp": 0,
-        "gf": 11,
-        "gc": 5,
+        "gf": 12,
+        "gc": 6,
         "dg": 6,
-        "puntos": 13
+        "puntos": 14
       },
       {
         "nombre": "Croatia",
