@@ -53,14 +53,14 @@
     "paises": [
       {
         "nombre": "Switzerland",
-        "pj": 5,
+        "pj": 6,
         "pg": 3,
-        "pe": 2,
+        "pe": 3,
         "pp": 0,
-        "gf": 9,
-        "gc": 3,
+        "gf": 10,
+        "gc": 4,
         "dg": 6,
-        "puntos": 11
+        "puntos": 12
       },
       {
         "nombre": "Canada",
@@ -445,14 +445,14 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 5,
+        "pj": 6,
         "pg": 4,
-        "pe": 1,
+        "pe": 2,
         "pp": 0,
-        "gf": 12,
-        "gc": 4,
+        "gf": 13,
+        "gc": 5,
         "dg": 8,
-        "puntos": 13
+        "puntos": 14
       },
       {
         "nombre": "Austria",
