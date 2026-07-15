@@ -347,14 +347,14 @@
     "paises": [
       {
         "nombre": "Spain",
-        "pj": 6,
-        "pg": 5,
+        "pj": 7,
+        "pg": 6,
         "pe": 1,
         "pp": 0,
-        "gf": 11,
+        "gf": 13,
         "gc": 1,
-        "dg": 10,
-        "puntos": 16
+        "dg": 12,
+        "puntos": 19
       },
       {
         "nombre": "Cape Verde",
@@ -396,13 +396,13 @@
     "paises": [
       {
         "nombre": "France",
-        "pj": 6,
+        "pj": 7,
         "pg": 6,
         "pe": 0,
-        "pp": 0,
+        "pp": 1,
         "gf": 16,
-        "gc": 2,
-        "dg": 14,
+        "gc": 4,
+        "dg": 12,
         "puntos": 18
       },
       {
