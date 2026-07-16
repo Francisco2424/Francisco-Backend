@@ -445,14 +445,14 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 6,
-        "pg": 4,
+        "pj": 7,
+        "pg": 5,
         "pe": 2,
         "pp": 0,
-        "gf": 13,
-        "gc": 5,
-        "dg": 8,
-        "puntos": 14
+        "gf": 15,
+        "gc": 6,
+        "dg": 9,
+        "puntos": 17
       },
       {
         "nombre": "Austria",
@@ -543,13 +543,13 @@
     "paises": [
       {
         "nombre": "England",
-        "pj": 6,
+        "pj": 7,
         "pg": 4,
         "pe": 2,
-        "pp": 0,
-        "gf": 12,
-        "gc": 6,
-        "dg": 6,
+        "pp": 1,
+        "gf": 13,
+        "gc": 8,
+        "dg": 5,
         "puntos": 14
       },
       {
