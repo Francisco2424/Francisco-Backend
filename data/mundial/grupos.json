@@ -396,13 +396,13 @@
     "paises": [
       {
         "nombre": "France",
-        "pj": 7,
+        "pj": 8,
         "pg": 6,
         "pe": 0,
-        "pp": 1,
-        "gf": 16,
-        "gc": 4,
-        "dg": 12,
+        "pp": 2,
+        "gf": 20,
+        "gc": 10,
+        "dg": 10,
         "puntos": 18
       },
       {
@@ -543,14 +543,14 @@
     "paises": [
       {
         "nombre": "England",
-        "pj": 7,
-        "pg": 4,
+        "pj": 8,
+        "pg": 5,
         "pe": 2,
         "pp": 1,
-        "gf": 13,
-        "gc": 8,
-        "dg": 5,
-        "puntos": 14
+        "gf": 19,
+        "gc": 12,
+        "dg": 7,
+        "puntos": 17
       },
       {
         "nombre": "Croatia",

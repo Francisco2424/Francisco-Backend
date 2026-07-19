@@ -1,7 +1,7 @@
 [
   [
     "Kylian Mbappé",
-    8
+    10
   ],
   [
     "Lionel Messi",
@@ -12,19 +12,19 @@
     7
   ],
   [
+    "Jude Bellingham",
+    7
+  ],
+  [
+    "Ousmane Dembélé",
+    6
+  ],
+  [
     "Harry Kane",
     6
   ],
   [
-    "Jude Bellingham",
-    6
-  ],
-  [
     "Mikel Oyarzabal",
-    5
-  ],
-  [
-    "Ousmane Dembélé",
     5
   ],
   [
@@ -88,6 +88,10 @@
     3
   ],
   [
+    "Bradley Barcola",
+    3
+  ],
+  [
     "Lautaro Martínez",
     3
   ],
@@ -101,6 +105,10 @@
   ],
   [
     "Charles De Ketelaere",
+    3
+  ],
+  [
+    "Bukayo Saka",
     3
   ],
   [
@@ -169,10 +177,6 @@
   ],
   [
     "Maxi Araújo",
-    2
-  ],
-  [
-    "Bradley Barcola",
     2
   ],
   [
@@ -693,6 +697,14 @@
   ],
   [
     "Anthony Gordon",
+    1
+  ],
+  [
+    "Declan Rice",
+    1
+  ],
+  [
+    "Ezri Konsa",
     1
   ]
 ]
