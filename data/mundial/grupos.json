@@ -347,14 +347,14 @@
     "paises": [
       {
         "nombre": "Spain",
-        "pj": 7,
+        "pj": 8,
         "pg": 6,
-        "pe": 1,
+        "pe": 2,
         "pp": 0,
         "gf": 13,
         "gc": 1,
         "dg": 12,
-        "puntos": 19
+        "puntos": 20
       },
       {
         "nombre": "Cape Verde",
@@ -445,14 +445,14 @@
     "paises": [
       {
         "nombre": "Argentina",
-        "pj": 7,
+        "pj": 8,
         "pg": 5,
-        "pe": 2,
+        "pe": 3,
         "pp": 0,
         "gf": 15,
         "gc": 6,
         "dg": 9,
-        "puntos": 17
+        "puntos": 18
       },
       {
         "nombre": "Austria",
